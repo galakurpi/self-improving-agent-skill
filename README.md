@@ -1,6 +1,6 @@
 # Self-Improving Agent Skill
 
-A small Codex skill for turning agent mistakes into durable instruction fixes.
+A small Codex/Claude Code skill for turning agent mistakes into durable instruction fixes.
 
 Use it when an agent followed the wrong tool, stale workflow, misleading agent name, or contradictory documentation. The skill guides the agent to find the active instruction sources, patch the smallest durable route, verify stale references are gone, and commit only the scoped fix.
 
