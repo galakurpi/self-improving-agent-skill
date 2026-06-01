@@ -1,0 +1,3 @@
+display_name: Self-Improving Agent
+short_description: Fix stale agent instructions and routing drift.
+default_prompt: Use self-improving-agent to diagnose an agent behavior failure, patch the durable instruction sources, and verify the bad route is gone.
